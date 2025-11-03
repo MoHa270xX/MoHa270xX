@@ -9,7 +9,6 @@
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
-- 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MoHa270xX?tab=repositories)**.
 - 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
